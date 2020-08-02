@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (New Application)">f3cde487db12101071d61fc76896194e</button>
+        <item_parameter display_value="New Application location">7fcde487db12101071d61fc76896194c</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-02 14:32:48</sys_created_on>
+        <sys_id>3bcde487db12101071d61fc768961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7fcde487db12101071d61fc76896194c</sys_name>
+        <sys_package display_value="New Application" source="x_398433_new_appli">433de007db12101071d61fc76896199c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Application">433de007db12101071d61fc76896199c</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_3bcde487db12101071d61fc768961953</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-02 14:32:48</sys_updated_on>
+        <ui_parameter display_value="Location">37cde487db12101071d61fc768961951</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

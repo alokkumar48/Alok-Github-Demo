@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>New Application</name>
+        <required_roles>x_398433_new_appli.new application role</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-02 14:32:48</sys_created_on>
+        <sys_id>33cde487db12101071d61fc76896193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Application</sys_name>
+        <sys_package display_value="New Application" source="x_398433_new_appli">433de007db12101071d61fc76896199c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Application">433de007db12101071d61fc76896199c</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_33cde487db12101071d61fc76896193e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-02 14:32:48</sys_updated_on>
+        <title>New Application</title>
+    </sys_sg_applet_launcher>
+</record_update>

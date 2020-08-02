@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">6fcda447db12101071d61fc768961948</icon>
+        <item_view display_value="New Application Detail Screen Item View">bbcde487db12101071d61fc768961941</item_view>
+        <name>New Application Form Screen</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-02 14:32:48</sys_created_on>
+        <sys_id>bbcde487db12101071d61fc768961942</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Application Form Screen</sys_name>
+        <sys_package display_value="New Application" source="x_398433_new_appli">433de007db12101071d61fc76896199c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Application">433de007db12101071d61fc76896199c</sys_scope>
+        <sys_update_name>sys_sg_form_screen_bbcde487db12101071d61fc768961942</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-02 14:32:48</sys_updated_on>
+        <table>x_398433_new_appli_new_application</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=bbcde487db12101071d61fc768961942"/>
+</record_update>

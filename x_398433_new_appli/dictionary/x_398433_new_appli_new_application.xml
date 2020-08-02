@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="New Application" max_length="40" name="x_398433_new_appli_new_application" text_index="true" type="collection"/>
+</database>
