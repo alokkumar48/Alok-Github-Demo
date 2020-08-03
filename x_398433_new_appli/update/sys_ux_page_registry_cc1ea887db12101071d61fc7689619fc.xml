@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>c41ea887db12101071d61fc7689619fc</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/new_application</path>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-02 14:33:55</sys_created_on>
+        <sys_id>cc1ea887db12101071d61fc7689619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Application</sys_name>
+        <sys_package display_value="New Application" source="x_398433_new_appli">433de007db12101071d61fc76896199c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Application">433de007db12101071d61fc76896199c</sys_scope>
+        <sys_update_name>sys_ux_page_registry_cc1ea887db12101071d61fc7689619fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-02 14:33:55</sys_updated_on>
+        <title>New Application</title>
+    </sys_ux_page_registry>
+</record_update>

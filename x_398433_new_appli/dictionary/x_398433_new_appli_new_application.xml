@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="New Application" max_length="40" name="x_398433_new_appli_new_application" sizeclass="0" text_index="true" type="collection">
+        <element label="Current User" max_length="32" name="current_user" reference="sys_user" type="reference"/>
+    </element>
+</database>

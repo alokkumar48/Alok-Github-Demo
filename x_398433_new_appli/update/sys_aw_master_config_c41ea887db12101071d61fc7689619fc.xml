@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="New Application">cc1ea887db12101071d61fc7689619fc</compiled_page_registry>
+        <description/>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="New Application Search Context Config">441ee047db12101071d61fc7689619da</global_search_data>
+        <name>New Application</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-02 14:33:55</sys_created_on>
+        <sys_id>c41ea887db12101071d61fc7689619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Application</sys_name>
+        <sys_package display_value="New Application" source="x_398433_new_appli">433de007db12101071d61fc76896199c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Application">433de007db12101071d61fc76896199c</sys_scope>
+        <sys_update_name>sys_aw_master_config_c41ea887db12101071d61fc7689619fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-02 14:33:55</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>new_application</workspace_url>
+    </sys_aw_master_config>
+</record_update>
